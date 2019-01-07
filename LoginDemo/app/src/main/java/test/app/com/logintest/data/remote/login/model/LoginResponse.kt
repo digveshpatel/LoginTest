@@ -1,4 +1,4 @@
-package test.app.com.logintest.data.remote.retrofit.model
+package test.app.com.logintest.data.remote.login.model
 
 import com.google.gson.annotations.SerializedName
 

@@ -6,7 +6,7 @@ import com.google.gson.Gson
 import com.google.gson.GsonBuilder
 import dagger.Module
 import dagger.Provides
-import test.app.com.logintest.data.LoginDataRepository
+import test.app.com.logintest.data.remote.login.LoginDataRepository
 import test.app.com.logintest.domain.repository.LoginRepository
 
 import javax.inject.Singleton
@@ -18,14 +18,6 @@ class ApplicationModule {
     @Singleton
     internal fun provideContext(application: Application): Context {
         return application
-    }
-
-    //Gson injection
-    @Provides
-    @Singleton
-    internal fun provideGson(): Gson {
-        val gsonBuilder = GsonBuilder()
-        return gsonBuilder.create()
     }
 
     @Provides

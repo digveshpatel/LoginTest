@@ -4,9 +4,10 @@ import android.content.Context
 import io.reactivex.Flowable
 import okhttp3.ResponseBody
 import retrofit2.Response
-import test.app.com.logintest.data.remote.retrofit.LoginEntityData
+import test.app.com.logintest.data.remote.login.LoginEntityData
 
-class LocalEntityData(context: Context) : BasePersistence(context), LoginEntityData {
+class LocalEntityData(context: Context) : BasePersistence(context),
+    LoginEntityData {
 
     override fun postLogin(name: String, password: String): Flowable<Response<ResponseBody>>? {
         return null

@@ -1,4 +1,4 @@
-package test.app.com.logintest.data.remote.retrofit
+package test.app.com.logintest.data.remote.login
 
 import io.reactivex.Flowable
 import okhttp3.ResponseBody

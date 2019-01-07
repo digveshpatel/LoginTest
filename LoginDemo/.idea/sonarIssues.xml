@@ -78,6 +78,11 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/RemoteLoginEntityData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/local/db/BasePersistence.java">
           <value>
             <set />
@@ -179,6 +184,21 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/remote/intercepter/RequestInterceptor.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/remote/login/LoginDataRepository.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/remote/login/RemoteLoginEntityData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/data/remote/login/model/LoginDataRepository.kt">
           <value>
             <set />
           </value>
@@ -318,6 +338,21 @@
             <set />
           </value>
         </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/domain/mapper/LogginData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/domain/mapper/LogginDataMapper.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/domain/modal/LoginData.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/domain/repository/LoginRepository.java">
           <value>
             <set />
@@ -399,6 +434,16 @@
           </value>
         </entry>
         <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/utils/NetworkUtils.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/utils/Utitlity.kt">
+          <value>
+            <set />
+          </value>
+        </entry>
+        <entry key="$PROJECT_DIR$/app/src/main/java/test/app/com/logintest/utils/utitlity.kt">
           <value>
             <set />
           </value>
